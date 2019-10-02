@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss"
+	],
+	"sourcesContent": [
+		"body {\n  font-family: Arial, Helvetica, sans-serif;\n  margin: 3em;\n}\n\nfooter {\n  margin-top: 1em;\n  background-color: #ccc;\n  max-height: 20em;\n  padding: 1em;\n  font-size: smaller;\n}\n\nfooter nav {\n  vertical-align: top;\n  display: inline-block;\n  margin: 1em;\n}\n\nfooter nav li {\n  margin-left: -2em;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,4BAA4B,EACzC,MAAM,EAAE,GAAG,GACZ;;AAED,AAAA,MAAM,CAAC,EACL,UAAU,EAAE,GAAG,EACf,gBAAgB,EAAE,IAAI,EACtB,UAAU,EAAE,IAAI,EAChB,OAAO,EAAE,GAAG,EACZ,SAAS,EAAE,OAAO,GACnB;;AAED,AAAA,MAAM,CAAC,GAAG,CAAC,EACT,cAAc,EAAE,GAAG,EACnB,OAAO,EAAE,YAAY,EACrB,MAAM,EAAE,GAAG,GACZ;;AAED,AAAA,MAAM,CAAC,GAAG,CAAC,EAAE,CAAC,EACZ,WAAW,EAAE,IAAI,GAClB"
+}
