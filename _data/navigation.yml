@@ -1,2 +1,4 @@
 - name: Home
   link: /
+- name: Product Updates
+  link: /product-updates.html
