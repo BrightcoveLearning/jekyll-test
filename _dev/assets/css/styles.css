@@ -1,0 +1,19 @@
+.bcls-active { color: white; background-color: #333; }
+
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; position: relative; }
+
+header { min-width: 100%; }
+
+footer { margin-top: 2em; background-color: #515151; bottom: 0; color: #f5f5f5; font-size: smaller; max-height: 20em; padding: 1em; padding-left: 4em; position: relative; min-width: 100%; }
+
+footer h2 { font-size: 1.5rem; text-align: left; }
+
+footer a { color: #f5f5f5; }
+
+footer nav { vertical-align: top; display: inline-block; margin: 1em; }
+
+footer nav li { display: block; margin-left: -2.5em; }
+
+.bcls-article { max-width: 75em; margin-left: 20%; margin-right: 20%; }
+
+/*# sourceMappingURL=styles.css.map */
