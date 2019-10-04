@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="76.5 109.5 928 226" width="928" height="226">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="76.5 105.32645 1284 144.3471" width="1284" height="144.3471">
   <defs>
-    <font-face font-family="Helvetica Neue" font-size="181" panose-1="2 0 2 6 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="82.87293" x-height="520" cap-height="722" ascent="930.9998" descent="-212.99744" font-style="italic" font-weight="200">
+    <font-face font-family="Helvetica Neue" font-size="124" panose-1="2 0 2 6 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="120.96774" x-height="520" cap-height="722" ascent="930.9998" descent="-212.99744" font-style="italic" font-weight="200">
       <font-face-src>
         <font-face-name name="HelveticaNeue-UltraLightItalic"/>
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.2 
-    <dc:date>2019-10-04 11:56:00 +0000</dc:date>
+  <metadata> Produced by OmniGraffle 7.11.3 
+    <dc:date>2019-10-04 12:12:33 +0000</dc:date>
   </metadata>
-  <g id="Canvas_1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1" stroke="none">
+  <g id="Canvas_1" stroke-opacity="1" fill-opacity="1" stroke="none" fill="none" stroke-dasharray="none">
     <title>Canvas 1</title>
     <g id="Canvas_1: Layer 1">
       <title>Layer 1</title>
       <g id="Graphic_2">
-        <rect x="77" y="110" width="927" height="225" fill="#ccc"/>
-        <rect x="77" y="110" width="927" height="225" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-        <text transform="translate(82 116.05715)" fill="white">
-          <tspan font-family="Helvetica Neue" font-size="181" font-style="italic" font-weight="200" fill="white" x="19.4845" y="169">App Header</tspan>
+        <rect x="77" y="110" width="1283" height="135" fill="#ccc"/>
+        <rect x="77" y="110" width="1283" height="135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(82 105.32645)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="124" font-style="italic" font-weight="200" fill="white" x="335.738" y="115">App Header</tspan>
         </text>
       </g>
     </g>
