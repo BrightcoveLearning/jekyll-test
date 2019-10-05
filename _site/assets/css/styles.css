@@ -1,4 +1,4 @@
-.align-right { text-align: right; }
+.secondary-nav { text-align: right; margin-right: 1em; font-size: smaller; }
 
 .bcls-active { color: white; background-color: #333; }
 
