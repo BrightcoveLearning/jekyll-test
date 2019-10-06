@@ -1,4 +1,12 @@
 - name: Home
   link: /
-- name: Product Updates
+  hasitems: false
+  - name: Product Updates
   link: /product-updates.html
+  hasitems: false
+  - name: Get Started
+  link: /get-started/
+  hasitems: true
+  subfolderitems:
+    - name: Get Started with the Corp Comm Trial
+      link: /get-started/getting-started-corp-comm-trial.html
