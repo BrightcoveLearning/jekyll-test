@@ -4,10 +4,10 @@
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       {% if page.parent %}
-      <li class="breadcrumb-item"><a href="/">Home</a></li>
+      <li class="breadcrumb-item"><a href="/">Home</a> &lt;</li>
       {% endif %}
       {% if page.parent and page.parent != "Home" %}
-      <li class="breadcrumb-item"><a href="/{{ page.dir }}">Library</a></li>
+      <li class="breadcrumb-item"><a href="/{{ page.dir }}">Library</a> &lt;</li>
       {% endif %}
       <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
     </ol>
