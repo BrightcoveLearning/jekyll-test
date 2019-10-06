@@ -1,10 +1,8 @@
 - name: Home
   link: /
-  hasitems: false
-  - name: Product Updates
+- name: Product Updates
   link: /product-updates.html
-  hasitems: false
-  - name: Get Started
+- name: Get Started
   link: /get-started/
   hasitems: true
   subfolderitems:
