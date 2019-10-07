@@ -1,1 +1,0 @@
-cp -R _dev/*.* _site/

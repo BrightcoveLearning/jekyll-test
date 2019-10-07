@@ -1,1 +1,1 @@
-cp -R _dev/*.* _site/
+cp -R _dev/*.* docs/
