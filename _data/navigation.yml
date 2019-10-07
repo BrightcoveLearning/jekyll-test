@@ -4,7 +4,8 @@
   link: /product-updates.html
 - name: Get Started
   link: /get-started/
-  hasitems: true
   subfolderitems:
+    - name: Get Started Home
+      link: /get-started/
     - name: Get Started with the Corp Comm Trial
       link: /get-started/getting-started-corp-comm-trial.html

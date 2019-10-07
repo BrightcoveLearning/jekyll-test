@@ -21,11 +21,15 @@
 .sidenav {
   position: fixed;
   left: 1em;
-  top: 7em;
+  top: 15em;
   overflow-y: scroll;
   font-size: smaller;
   margin-left: 1em;
   margin-right: 1em;
+}
+
+.sidenav h5 {
+  font-size: 1.3em;
 }
 
 body {
@@ -73,6 +77,6 @@ footer nav li {
 
 .bcls-article {
   max-width: 75em;
-  margin-left: 40%;
+  margin-left: 30%;
   margin-right: 20%
 }

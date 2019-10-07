@@ -6,7 +6,9 @@
 
 .image-logo { float: left; margin-left: 1em; }
 
-.sidenav { position: fixed; left: 1em; top: 7em; overflow-y: scroll; font-size: smaller; margin-left: 1em; margin-right: 1em; }
+.sidenav { position: fixed; left: 1em; top: 15em; overflow-y: scroll; font-size: smaller; margin-left: 1em; margin-right: 1em; }
+
+.sidenav h5 { font-size: 1.3em; }
 
 body { font-family: Arial, Helvetica, sans-serif; margin: 0; position: relative; }
 
@@ -22,6 +24,6 @@ footer nav, div.bcls-copyright { vertical-align: top; display: inline-block; mar
 
 footer nav li { display: block; margin-left: -2.5em; }
 
-.bcls-article { max-width: 75em; margin-left: 40%; margin-right: 20%; }
+.bcls-article { max-width: 75em; margin-left: 30%; margin-right: 20%; }
 
 /*# sourceMappingURL=styles.css.map */
