@@ -1,2 +1,8 @@
-destination : docs
-year : 2019
+destination: docs
+year: 2019
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: page
