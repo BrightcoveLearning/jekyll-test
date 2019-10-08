@@ -1,9 +1,0 @@
-source: docs
-year: 2019
-url: https://brightcovelearning.github.io/jekyll-test/
-defaults:
-  - 
-    scope:
-      path: ""
-    values:
-      layout: page
