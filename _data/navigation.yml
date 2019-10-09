@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+- name: Product Updates
+  link: /product-updates.html
+- name: Get Started
+  link: /get-started/
+  subfolderitems:
+    - name: Get Started Home
+      link: /get-started/
+    - name: Get Started
+      link: /get-started/getting-started-corp-comm-trial.html
