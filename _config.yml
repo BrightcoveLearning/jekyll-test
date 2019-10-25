@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Documentation for Brightcove Corporate Communications
+title: TODO Your Title Here
 email: training@brightcove.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description of Corp Comm app.
+  TODO Your Description here
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://brightcovelearning.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
-plugins:
-  - jekyll-feed
 
-year: 2019
+
 defaults:
   - 
     scope:
